@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Fathan Ayyasy Al Ghozi G.211.20.0008</title>
+        <title>Andre Rifqi Febriyan G.211.20.0025</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -33,8 +33,8 @@
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
                 <div class="flex justify-center">
-                    Fathan Ayyasy Al Ghozi
-                    G.211.20.0008
+                    Andre Rifqi Febriyan
+                    G.211.20.0025
                 </div>
 
                 <div class="mt-16">
